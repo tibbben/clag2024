@@ -1,8 +1,8 @@
-# Perú, Property and Persuasion:
+# Shared Social License:
 
-This repository contains a short presentation for the Conservation Extraction Conundrum sessions at the AAG 2017 annual meeting.  
+This repository contains a short presentation for the 2024 Confference of Latin American Geography.  
 
-If you are not looking for the repository, but simply the presentation, please see the [hosted version](http://tibbben.github.io/aag2017/). 
+If you are not looking for the repository, but simply the presentation, please see the [hosted version](http://tibbben.github.io/clag2024/). 
 
 ---
 
